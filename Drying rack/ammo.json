@@ -1,0 +1,16 @@
+[{
+    "id": "meat_strips",
+    "copy-from": "flesh",
+    "type": "COMESTIBLE",
+    "name": "meat strips",
+    "description": "Freshly butchered meat strips.",
+    "weight": 100,
+    "volume": 1,
+    "price": 500,
+	"ammo_type": "meat_strips",
+    "spoils_in": 24,
+	"count" : 2,
+    "calories": 250,
+    "healthy": -1,
+    "fun": -10
+  }]

@@ -1,0 +1,24 @@
+[
+  {
+    "result": "wood_drying_rack_meat_full_done",
+    "type": "uncraft",
+    "skill_used": "survival",
+    "difficulty": 1,
+    "time": 1000,
+    "components": [
+      [ [ "dry_meat", 10 ] ],
+      [ [ "wood_drying_rack", 1 ] ]
+    ]
+  },
+  {
+    "result": "wood_drying_rack_meat_half_done",
+    "type": "uncraft",
+    "skill_used": "survival",
+    "difficulty": 1,
+    "time": 1000,
+    "components": [
+      [ [ "dry_meat", 5 ] ],
+      [ [ "wood_drying_rack", 1 ] ]
+    ]
+  }
+]

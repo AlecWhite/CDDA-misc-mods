@@ -1,0 +1,8 @@
+[
+  {
+    "id": "meat_strips",
+    "name": "meat strips",
+    "default": "meat_strips",
+    "type": "ammunition_type"
+  }
+]

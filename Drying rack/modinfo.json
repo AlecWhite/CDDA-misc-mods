@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "dr",
+    "name": "Drying rack",
+    "authors": [ "Alec White" ],
+    "description": "Adds a drying rack",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

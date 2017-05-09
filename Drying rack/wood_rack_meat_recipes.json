@@ -1,0 +1,52 @@
+[
+  {
+    "result": "wood_drying_rack_meat_full",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "survival",
+    "difficulty": 1,
+    "time": 500,
+    "autolearn": false,
+    "components": [
+      [ [ "meat_strips", 10 ] ],
+      [ [ "wood_drying_rack", 1 ] ]
+    ]
+  },
+  {
+    "result": "wood_drying_rack_meat_half",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "survival",
+    "difficulty": 1,
+    "time": 200,
+    "autolearn": false,
+    "components": [
+      [ [ "meat_strips", 5 ] ],
+      [ [ "wood_drying_rack", 1 ] ]
+    ]
+  },
+  {
+    "result": "wood_drying_rack",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "survival",
+    "difficulty": 2,
+    "skills_required": [ "fabrication", 3 ],
+    "time": 15000,
+    "autolearn": false,
+    "book_learn": [ [ "survival_book", 1 ], [ "fun_survival", 1 ], [ "atomic_survival", 1 ], [ "pocket_survival", 2 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 2 },
+      { "id": "SAW_W", "level": 1 }
+    ],
+
+    "components": [
+      [ [ "2x4", 8 ] ],
+      [ [ "stick", 20 ] ],
+	  [ [ "duct_tape", 600 ],[ "string_36", 20 ],[ "rope_6", 10 ]  ]
+    ]
+  }
+]

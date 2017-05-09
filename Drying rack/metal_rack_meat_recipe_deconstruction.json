@@ -1,0 +1,35 @@
+[
+  {
+    "result": "metal_drying_rack_meat_full_done",
+    "type": "uncraft",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "time": 1000,
+    "components": [
+      [ [ "dry_meat", 20 ] ],
+      [ [ "metal_drying_rack", 1 ] ]
+    ]
+  },
+  {
+    "result": "metal_drying_rack_meat_half_done",
+    "type": "uncraft",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "time": 1000,
+    "components": [
+      [ [ "dry_meat", 10 ] ],
+      [ [ "metal_drying_rack", 1 ] ]
+    ]
+  },
+  {
+    "result": "metal_drying_rack_meat_quarter_done",
+    "type": "uncraft",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "time": 1000,
+    "components": [
+      [ [ "dry_meat", 5 ] ],
+      [ [ "metal_drying_rack", 1 ] ]
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "wood_drying_rack",
+    "type": "TOOL",
+    "category": "tools",
+    "name": "wood drying rack",
+    "description": "A wood drying rack.",
+    "weight": 2000,
+    "volume": 150,
+    "price": 50,
+    "to_hit": -2,
+    "material": "wood",
+    "symbol": "#",
+    "color": "brown"
+  },
+  {
+    "id": "wood_drying_rack_meat_full_working",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": "wood drying rack full of drying meat",
+    "description": "A drying rack full of meat ready to dry. Better drop it!",
+    "weight": 6000,
+    "volume": 150,
+    "price": 50,
+    "to_hit": -2,
+    "material": [ "wood" ],
+    "symbol": "#",
+    "color": "red",
+    "use_action": {
+      "target": "wood_drying_rack_meat_full_done",
+      "msg": "The meat is dried",
+      "moves": 0,
+      "type": "delayed_transform",
+      "transform_age": 1,
+      "not_ready_msg": "The meat needs more time to dry"
+    },
+    "flags": [ "TRADER_AVOID" ]
+  },
+  {
+    "id": "wood_drying_rack_meat_full_done",
+    "type": "TOOL",
+    "category": "tools",
+    "name": "wood drying rack full of dried meat",
+    "description": "A drying rack full of meat. The meat has been dried.",
+    "weight": 4000,
+	"material": [  "wood" ],
+    "volume": 150,
+    "price": 50,
+    "to_hit": -2,
+    "symbol": "#",
+    "color": "brown"
+  },
+  {
+    "id": "wood_drying_rack_meat_full",
+    "type": "TOOL",
+    "category": "tools",
+    "name": "wood drying rack full of meat",
+    "description": "A drying rack full of meat.",
+    "weight": 6000,
+    "volume": 150,
+    "price": 50,
+    "to_hit": -2,
+    "material": [  "wood" ],
+    "symbol": ";",
+    "color": "red",
+    "use_action": {
+      "target": "wood_drying_rack_meat_full_working",
+      "msg": "You prepare the meat.",
+      "menu_text": "Prepare meat",
+      "type": "transform"
+    }
+  },
+  {
+    "id": "wood_drying_rack_meat_half_working",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": "wood drying rack half-full drying meat",
+    "description": "A drying rack half-full of meat ready to dry. Better drop it!",
+    "weight": 4000,
+    "volume": 150,
+    "price": 50,
+    "to_hit": -2,
+    "material": [ "wood" ],
+    "symbol": "#",
+    "color": "red",
+    "use_action": {
+      "target": "wood_drying_rack_meat_half_done",
+      "msg": "The meat is dried",
+      "moves": 0,
+      "type": "delayed_transform",
+      "transform_age": 1,
+      "not_ready_msg": "The meat needs more time to dry"
+    },
+    "flags": [ "TRADER_AVOID" ]
+  },
+  {
+    "id": "wood_drying_rack_meat_half_done",
+    "type": "TOOL",
+    "category": "tools",
+    "name": "wood drying rack half-full of dried meat",
+    "description": "A drying rack half-full of meat. The meat has been dried.",
+    "weight": 3500,
+    "volume": 150,
+	"material": [  "wood" ],
+    "price": 50,
+    "to_hit": -2,
+    "symbol": "#",
+    "color": "brown"
+  },
+  {
+    "id": "wood_drying_rack_meat_half",
+    "type": "TOOL",
+    "category": "tools",
+    "name": "wood drying rack half-full of meat",
+    "description": "A drying rack half-full of meat.",
+    "weight": 4000,
+    "volume": 150,
+    "price": 50,
+    "to_hit": -2,
+    "material": [ "wood" ],
+    "symbol": ";",
+    "color": "red",
+    "use_action": {
+      "target": "wood_drying_rack_meat_half_working",
+      "msg": "You prepare the meat.",
+      "menu_text": "Prepare meat",
+      "type": "transform"
+    }
+  }
+]

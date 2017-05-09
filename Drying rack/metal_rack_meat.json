@@ -31,7 +31,7 @@
       "msg": "The meat is dried",
       "moves": 0,
       "type": "delayed_transform",
-      "transform_age": 1,
+      "transform_age": 43200,
       "not_ready_msg": "The meat needs more time to dry"
     },
     "flags": [ "TRADER_AVOID" ]
@@ -88,7 +88,7 @@
       "msg": "The meat is dried",
       "moves": 0,
       "type": "delayed_transform",
-      "transform_age": 1,
+      "transform_age": 43200,
       "not_ready_msg": "The meat needs more time to dry"
     },
     "flags": [ "TRADER_AVOID" ]
@@ -145,7 +145,7 @@
       "msg": "The meat is dried",
       "moves": 0,
       "type": "delayed_transform",
-      "transform_age": 1,
+      "transform_age": 43200,
       "not_ready_msg": "The meat needs more time to dry"
     },
     "flags": [ "TRADER_AVOID" ]

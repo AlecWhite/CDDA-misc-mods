@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "NFS",
+    "name": "No Funs",
+    "authors": [ "Alec White" ],
+    "description": "Disables the spawn of weapons/ammo on most places and the spawning of weapon-related buildings",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

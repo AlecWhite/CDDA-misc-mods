@@ -7,7 +7,7 @@
     "skill_used": "survival",
     "difficulty": 1,
     "time": 1000,
-    "autolearn": false,
+    "autolearn": true,
     "components": [
       [ [ "meat_strips", 20 ] ],
       [ [ "metal_drying_rack", 1 ] ]
@@ -21,7 +21,7 @@
     "skill_used": "survival",
     "difficulty": 1,
     "time": 500,
-    "autolearn": false,
+    "autolearn": true,
     "components": [
       [ [ "meat_strips", 10 ] ],
       [ [ "metal_drying_rack", 1 ] ]
@@ -35,7 +35,7 @@
     "skill_used": "survival",
     "difficulty": 1,
     "time": 200,
-    "autolearn": false,
+    "autolearn": true,
     "components": [
       [ [ "meat_strips", 5 ] ],
       [ [ "metal_drying_rack", 1 ] ]
@@ -50,7 +50,7 @@
     "difficulty": 2,
     "skills_required": [ "fabrication", 3 ],
     "time": 15000,
-    "autolearn": false,
+    "autolearn": true,
     "book_learn": [ [ "survival_book", 1 ], [ "fun_survival", 1 ], [ "atomic_survival", 1 ], [ "pocket_survival", 2 ] ],
     "qualities": [
       { "id": "HAMMER", "level": 2 },

@@ -1,0 +1,37 @@
+[{
+        "type" : "overmap_terrain",
+        "id" : "diary_farm_NW",
+        "name" : "diary farm",
+        "sym" : 119,
+        "color" : "brown",
+        "see_cost" : 1,
+        "mondensity" : 0,
+        "flags" : [ "SIDEWALK", "NO_ROTATE" ]
+    },{
+        "type" : "overmap_terrain",
+        "id" : "diary_farm_NE",
+        "name" : "diary farm",
+        "sym" : 119,
+        "color" : "brown",
+        "see_cost" : 1,
+        "mondensity" : 0,
+        "flags" : [ "SIDEWALK", "NO_ROTATE" ]
+    },{
+        "type" : "overmap_terrain",
+        "id" : "diary_farm_SE",
+        "name" : "diary farm",
+        "sym" : 119,
+        "color" : "brown",
+        "see_cost" : 5,
+        "mondensity" : 0,
+        "flags" : [ "SIDEWALK", "NO_ROTATE" ]
+    },{
+        "type" : "overmap_terrain",
+        "id" : "diary_farm_SW",
+        "name" : "diary farm",
+        "sym" : 119,
+        "color" : "brown",
+        "see_cost" : 5,
+        "mondensity" : 0,
+        "flags" : [ "SIDEWALK", "NO_ROTATE" ]
+    }]

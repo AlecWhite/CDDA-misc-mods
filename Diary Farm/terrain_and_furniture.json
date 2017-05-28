@@ -1,0 +1,36 @@
+[{
+        "type" : "terrain",
+        "id" : "t_milking_machine",
+        "name": "milking machine",
+        "symbol": "%",
+        "color": "grey",
+        "move_cost": 1,
+        "required_str": 10,
+        "flags": ["CONTAINER", "PLACE_ITEM", "BLOCKSDOOR"],
+        "deconstruct": {
+        "ter_set": "t_floor",
+            "items": [
+                { "item": "scrap", "count": [2, 9] },
+                { "item": "steel_chunk", "count": [2, 5] },
+                { "item": "hose", "count": [2, 6] }
+            ]
+        }
+	},
+		{
+        "type" : "terrain",
+        "id" : "t_bulk_tank",
+        "name": "bulk tank",
+        "symbol": "O",
+        "color": "ltgray",
+        "move_cost": 0,
+        "flags": ["BASHABLE", "CONTAINER", "SEALED", "PLACE_ITEM", "WALL"],
+        "deconstruct": {
+            "ter_set": "t_floor",
+            "items": [
+                { "item": "wire", "count": [1, 3] },
+                { "item": "pipe", "count": [1, 3] },
+                { "item": "steel_lump", "count": [1, 8] },
+                { "item": "sheet_metal", "count": [1, 6] },
+                { "item": "steel_chunk", "count": [1, 10] }
+            ]
+        }}]

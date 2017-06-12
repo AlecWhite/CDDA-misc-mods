@@ -1,6 +1,6 @@
 {
         "type" : "overmap_special",
-        "id" : "Shanty district",
+        "id" : "small shanty district",
         "overmaps" : [
             { "point":[0,0,0], "overmap": "shanty_4"},
             { "point":[1,-1,0], "overmap": "shanty_3"},

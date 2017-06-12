@@ -2,8 +2,8 @@
   {
     "id": "shanty_0",
     "type": "overmap_terrain",
-    "name": "small shanty",
-    "sym": 119,
+    "name": "small shanty district",
+    "sym": 115,
     "color": "brown",
     "see_cost": 1,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
@@ -11,8 +11,8 @@
   {
     "id": "shanty_1",
     "type": "overmap_terrain",
-    "name": "small shanty",
-    "sym": 119,
+    "name": "small shanty district",
+    "sym": 115,
     "color": "brown",
     "see_cost": 1,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
@@ -20,8 +20,8 @@
   {
     "id": "shanty_2",
     "type": "overmap_terrain",
-    "name": "small shanty",
-    "sym": 119,
+    "name": "small shanty district",
+    "sym": 115,
     "color": "brown",
     "see_cost": 5,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
@@ -29,8 +29,8 @@
   {
     "id": "shanty_3",
     "type": "overmap_terrain",
-    "name": "small shanty",
-    "sym": 119,
+    "name": "small shanty district",
+    "sym": 115,
     "color": "brown",
     "see_cost": 5,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
@@ -38,8 +38,8 @@
     {
     "id": "shanty_4",
     "type": "overmap_terrain",
-    "name": "small shanty",
-    "sym": 119,
+    "name": "small shanty district",
+    "sym": 115,
     "color": "brown",
     "see_cost": 5,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]

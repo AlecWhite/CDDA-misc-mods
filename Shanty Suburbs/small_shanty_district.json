@@ -1,0 +1,1699 @@
+[{
+    "method": "json",
+    "object": {
+        "furniture": {
+            "#": "f_makeshift_bed",
+            "&": "f_toilet",
+            "B": "f_bigmirror_b",
+            "C": "f_cupboard",
+            "F": "f_fireplace",
+            "H": "f_sofa",
+            "O": "f_crate_o",
+            "T": "f_trashcan",
+            "W": "f_woodstove",
+            "^": "f_indoor_plant",
+            "b": "f_bench",
+            "c": "f_chair",
+            "e": "f_fridge",
+            "g": "f_dryer",
+            "i": "f_fvat_empty",
+            "l": "f_locker",
+            "t": "f_table",
+            "w": "f_woodstove",
+            "{": "f_bookcase"
+        },
+        "place_items": [
+            {
+                "chance": 50,
+                "item": "chair_pants",
+                "x": [
+                    16,
+                    17
+                ],
+                "y": 10
+            },
+            {
+                "chance": 70,
+                "item": "guns_shotgun_common",
+                "x": 8,
+                "y": 10
+            },
+            {
+                "chance": 50,
+                "item": "book_survival",
+                "x": 5,
+                "y": 21
+            },
+            {
+                "chance": 30,
+                "item": "ammo_pistol_common",
+                "x": 6,
+                "y": 21
+            },
+            {
+                "chance": 50,
+                "item": "mags_other_common",
+                "x": 20,
+                "y": 15
+            },
+            {
+                "chance": 80,
+                "item": "groce_premade",
+                "x": [
+                    18,
+                    19
+                ],
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "drugs_heal_simple",
+                "x": 19,
+                "y": 17
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 6,
+                "y": 22
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 4,
+                "y": 21
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 8,
+                "y": 14
+            },
+            {
+                "chance": 80,
+                "item": "misc_smoking",
+                "x": 17,
+                "y": 17
+            },
+            {
+                "chance": 80,
+                "item": "novels",
+                "x": 4,
+                "y": 22
+            },
+            {
+                "chance": 80,
+                "item": "novels",
+                "x": 9,
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "novels",
+                "x": 5,
+                "y": 7
+            },
+            {
+                "chance": 70,
+                "item": "stash_drugs",
+                "x": 4,
+                "y": 19
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 9,
+                "y": 22
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 14,
+                "y": 21
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 10,
+                "y": 19
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 8,
+                "y": 19
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 14,
+                "y": 14
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 11,
+                "y": 14
+            },
+            {
+                "chance": 90,
+                "item": "trash",
+                "x": 10,
+                "y": 12
+            },
+            {
+                "chance": 60,
+                "item": "book_gunmags",
+                "x": 19,
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "contraband",
+                "x": 17,
+                "y": 21
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 17,
+                "y": 14
+            },
+            {
+                "chance": 50,
+                "item": "bed",
+                "x": 3,
+                "y": 22
+            },
+            {
+                "chance": 50,
+                "item": "bed",
+                "x": [
+                    17,
+                    19
+                ],
+                "y": 15
+            },
+            {
+                "chance": 50,
+                "item": "bed",
+                "x": [
+                    18,
+                    20
+                ],
+                "y": 14
+            },
+            {
+                "chance": 50,
+                "item": "bed",
+                "x": [
+                    4,
+                    5
+                ],
+                "y": 10
+            },
+            {
+                "chance": 50,
+                "item": "bed",
+                "x": 8,
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "guns_pistol_common",
+                "x": 7,
+                "y": 21
+            },
+            {
+                "chance": 80,
+                "item": "stoner",
+                "x": 16,
+                "y": 17
+            },
+            {
+                "chance": 80,
+                "item": "stoner",
+                "x": 20,
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "clothing_glasses",
+                "x": 16,
+                "y": 16
+            },
+            {
+                "chance": 80,
+                "item": "clothing_glasses",
+                "x": 8,
+                "y": 15
+            },
+            {
+                "chance": 60,
+                "item": "ammo_shotgun_common",
+                "x": 4,
+                "y": 9
+            },
+            {
+                "chance": 90,
+                "item": "building_rubble",
+                "x": 22,
+                "y": 21
+            },
+            {
+                "chance": 90,
+                "item": "building_rubble",
+                "x": [
+                    19,
+                    22
+                ],
+                "y": 20
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": 2,
+                "y": 17
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": 1,
+                "y": 14
+            },
+            {
+                "chance": 90,
+                "item": "building_rubble",
+                "x": 20,
+                "y": 12
+            },
+            {
+                "chance": 90,
+                "item": "building_rubble",
+                "x": 4,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": [
+                    22,
+                    23
+                ],
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": 2,
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": 22,
+                "y": 6
+            },
+            {
+                "chance": 90,
+                "item": "building_rubble",
+                "x": 5,
+                "y": 2
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": 12,
+                "y": 1
+            },
+            {
+                "chance": 80,
+                "item": "clothing_work_boots",
+                "x": 21,
+                "y": 15
+            },
+            {
+                "chance": 80,
+                "item": "dogfight",
+                "x": [
+                    20,
+                    21
+                ],
+                "y": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "chance": 70,
+                "item": "ammo_smg_common",
+                "x": 21,
+                "y": 14
+            },
+            {
+                "chance": 80,
+                "item": "fast_kitchen",
+                "x": 7,
+                "y": 22
+            },
+            {
+                "chance": 60,
+                "item": "fast_kitchen",
+                "x": 18,
+                "y": 17
+            },
+            {
+                "chance": 80,
+                "item": "fast_kitchen",
+                "x": 19,
+                "y": 16
+            },
+            {
+                "chance": 60,
+                "item": "fast_kitchen",
+                "x": 9,
+                "y": 8
+            },
+            {
+                "chance": 90,
+                "item": "hardware_trash",
+                "x": 16,
+                "y": 19
+            },
+            {
+                "chance": 90,
+                "item": "hardware_trash",
+                "x": 4,
+                "y": 16
+            },
+            {
+                "chance": 90,
+                "item": "hardware_trash",
+                "x": 6,
+                "y": 12
+            },
+            {
+                "chance": 90,
+                "item": "hardware_trash",
+                "x": 15,
+                "y": 9
+            },
+            {
+                "chance": 90,
+                "item": "hardware_trash",
+                "x": 4,
+                "y": 8
+            },
+            {
+                "chance": 90,
+                "item": "hardware_trash",
+                "x": 9,
+                "y": 7
+            },
+            {
+                "chance": 60,
+                "item": "tools_home",
+                "x": [
+                    6,
+                    7
+                ],
+                "y": 7
+            },
+            {
+                "chance": 80,
+                "item": "rug",
+                "x": [
+                    20,
+                    21
+                ],
+                "y": 16
+            }
+        ],
+        "place_monsters": [
+            { "monster": "GROUP_ZOMBIE", "x": [ 2, 21 ], "y": [ 2, 21 ], "chance": 80 }
+        ],
+        "fill_ter": "t_dirt",
+        "rows": [
+            "........................",
+            "........................",
+            "...._...................",
+            "._..____________________",
+            "..__.___________________",
+            "..._.___________________",
+            "...|||0|D||___....||||..",
+            "...|wCCCff|___....|#C|..",
+            "...|ffffct|___|||||#f0..",
+            "...|{fffct|___|fF^^ff|..",
+            "...|##HHct|___dfffcc&|.O",
+            "...||||00||___||||||||OO",
+            "...........___..........",
+            "...|d|.||||___.||||||||.",
+            "...|&|.|#f|___.|^####{|.",
+            "...|||.0ffd___.af####f|.",
+            ".....e.|lf|___.afc.cff|.",
+            ".......|wf|___.|lcttfw|.",
+            "...|||.0|||___.||||0|W|.",
+            "...|&|.....___.....g|||.",
+            "..||d||0|||___.||||.....",
+            "..|Tffbb^^|___.hfi|.....",
+            "..|#ffffffD___.||||.....",
+            "..|||||||||___...B......"
+        ],
+        "terrain": {
+            "#": "t_grass",
+            "&": "t_grass",
+            ".": [ "t_grass", "t_dirt", "t_dirt", "t_dirt" ],
+            "0": "t_window_frame",
+            "B": "t_grass",
+            "C": "t_floor",
+            "D": "t_door_b",
+            "F": "t_grass",
+            "H": "t_floor",
+            "O": "t_grass",
+            "T": "t_floor",
+            "W": "t_scrap_wooden_wall",
+            "^": "t_floor",
+            "_": "t_dirt",
+            "a": "t_door_makeshift_o",
+            "b": "t_floor",
+            "c": "t_grass",
+            "d": "t_door_o",
+            "e": "t_grass",
+            "f": "t_floor",
+            "g": "t_grass",
+            "h": "t_scrap_wooden_wall",
+            "i": "t_floor",
+            "l": "t_floor",
+            "t": "t_grass",
+            "w": "t_grass",
+            "{": "t_floor",
+            "|": "t_scrap_wooden_wall"
+        }
+    },
+    "om_terrain": "shanty_0",
+    "type": "mapgen",
+    "weight": 100
+},{
+    "method": "json",
+    "object": {
+        "furniture": {
+            "#": "f_makeshift_bed",
+            "B": "f_bigmirror",
+            "C": "f_cupboard",
+            "F": "f_fireplace",
+            "H": "f_armchair",
+            "T": "f_toilet",
+            "W": "f_washer",
+            "a": "f_trashcan",
+            "b": "f_bench",
+            "c": "f_chair",
+            "e": "f_bathtub",
+            "t": "f_table",
+            "w": "f_woodstove",
+            "{": "f_locker"
+        },
+        "place_items": [
+            {
+                "chance": 70,
+                "item": "guns_pistol_common",
+                "x": 21,
+                "y": 18
+            },
+            {
+                "chance": 70,
+                "item": "guns_pistol_common",
+                "x": 19,
+                "y": 10
+            },
+            {
+                "chance": 80,
+                "item": "fast_kitchen",
+                "x": 19,
+                "y": 18
+            },
+            {
+                "chance": 80,
+                "item": "fast_kitchen",
+                "x": 5,
+                "y": 15
+            },
+            {
+                "chance": 80,
+                "item": "fast_kitchen",
+                "x": 7,
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "fast_kitchen",
+                "x": 21,
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "gear_survival",
+                "x": 22,
+                "y": 18
+            },
+            {
+                "chance": 50,
+                "item": "bionics_common",
+                "x": 19,
+                "y": 19
+            },
+            {
+                "chance": 60,
+                "item": "tools_carpentry",
+                "x": 20,
+                "y": 11
+            },
+            {
+                "chance": 80,
+                "item": "tools_carpentry",
+                "x": 20,
+                "y": 7
+            },
+            {
+                "chance": 90,
+                "item": "floor_trash",
+                "x": [
+                    20,
+                    21
+                ],
+                "y": 22
+            },
+            {
+                "chance": 90,
+                "item": "floor_trash",
+                "x": 17,
+                "y": 22
+            },
+            {
+                "chance": 90,
+                "item": "floor_trash",
+                "x": 7,
+                "y": 18
+            },
+            {
+                "chance": 90,
+                "item": "floor_trash",
+                "x": 10,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "ammo_shotgun_common",
+                "x": 7,
+                "y": 10
+            },
+            {
+                "chance": 90,
+                "item": "bar_alcohol",
+                "x": 20,
+                "y": 18
+            },
+            {
+                "chance": 90,
+                "item": "bar_alcohol",
+                "x": 18,
+                "y": [
+                    12,
+                    13
+                ]
+            },
+            {
+                "chance": 90,
+                "item": "drugs_analgesic",
+                "x": 20,
+                "y": 14
+            },
+            {
+                "chance": 90,
+                "item": "everyday_gear",
+                "x": [
+                    21,
+                    22
+                ],
+                "y": 19
+            },
+            {
+                "chance": 90,
+                "item": "everyday_gear",
+                "x": 4,
+                "y": 16
+            },
+            {
+                "chance": 90,
+                "item": "everyday_gear",
+                "x": 8,
+                "y": 15
+            },
+            {
+                "chance": 90,
+                "item": "everyday_gear",
+                "x": 21,
+                "y": 14
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 19,
+                "y": 14
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 8,
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "ammo_pistol_common",
+                "x": 6,
+                "y": 15
+            },
+            {
+                "chance": 70,
+                "item": "ammo_pistol_common",
+                "x": 19,
+                "y": 11
+            },
+            {
+                "chance": 90,
+                "item": "stoner",
+                "x": [
+                    3,
+                    4
+                ],
+                "y": 18
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 22,
+                "y": 20
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": 4,
+                "y": 15
+            },
+            {
+                "chance": 60,
+                "item": "clothing_outdoor_set",
+                "x": 19,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 10,
+                "y": 10
+            },
+            {
+                "chance": 60,
+                "item": "clothing_outdoor_set",
+                "x": 8,
+                "y": 10
+            }
+        ],
+        "place_vehicles": [
+            {
+                "chance": 50,
+                "fuel": 150,
+                "rotation": 0,
+                "status": -1,
+                "vehicle": "motorcycle",
+                "x": 9,
+                "y": 21
+            }
+        ],
+        "fill_ter": "t_dirt",
+        "rows": [
+            "........................",
+            "......_..._.............",
+            "_...........__..........",
+            "_____________________...",
+            "___________________._._.",
+            "_____________________._.",
+            "..|&|........____|||d||.",
+            "..|f|.||||...____|FffC|.",
+            "..|T|.|Hf|...____|ffff|.",
+            "..|||.-ff|||.____|{fff|.",
+            "......|#f&f|.____|ctcf|.",
+            "......||||||.____|ctcf0.",
+            ".............____|ffff|.",
+            ".............____|ffff|.",
+            "..|||||||||..____|T###|.",
+            "..|wfctCCfd..____|||0||.",
+            "..|fffffff|a.____.......",
+            "..|{ff|||||a.____.|||&||",
+            "..|Hf#|.b....____.&fff#|",
+            "..|||||.b....____.|Bfff|",
+            ".............____.||0|w|",
+            ".............____..WW|||",
+            ".............____.....e.",
+            ".........._..____......."
+        ],
+        "terrain": {
+            "#": "t_grass",
+            "&": "t_door_b",
+            "-": "t_window_no_curtains_taped",
+            ".": [ "t_grass", "t_dirt", "t_dirt", "t_dirt" ],
+            "0": "t_window_frame",
+            "B": "t_grass",
+            "C": "t_grass",
+            "F": "t_grass",
+            "H": "t_grass",
+            "T": "t_grass",
+            "W": "t_grass",
+            "_": "t_dirt",
+            "a": "t_grass",
+            "b": "t_grass",
+            "c": "t_grass",
+            "d": "t_door_o",
+            "e": "t_grass",
+            "f": "t_floor",
+            "t": "t_grass",
+            "w": "t_grass",
+            "{": "t_grass",
+            "|": "t_scrap_wooden_wall"
+        }
+    },
+    "om_terrain": "shanty_1",
+    "type": "mapgen",
+    "weight": 100
+},{
+    "method": "json",
+    "object": {
+        "furniture": {
+            "#": "f_chair",
+            "&": "f_toilet",
+            "B": "f_bench",
+            "F": "f_fireplace",
+            "O": "f_crate_o",
+            "T": "f_exercise",
+            "^": "f_rubble",
+            "a": "f_bookcase",
+            "b": "f_bed",
+            "c": "f_cupboard",
+            "e": "f_desk",
+            "g": "f_dryer",
+            "h": "f_fridge",
+            "m": "f_makeshift_bed",
+            "r": "f_rubble_rock",
+            "t": "f_table",
+            "w": "f_woodstove",
+            "{": "f_locker"
+        },
+        "place_items": [
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": [
+                    4,
+                    5
+                ],
+                "y": 16
+            },
+            {
+                "chance": 70,
+                "item": "guns_smg_common",
+                "x": 4,
+                "y": 21
+            },
+            {
+                "chance": 90,
+                "item": "barbecue",
+                "x": 16,
+                "y": 13
+            },
+            {
+                "chance": 60,
+                "item": "tools_common",
+                "x": 17,
+                "y": 19
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 16,
+                "y": 16
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 18,
+                "y": 10
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 21,
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 19,
+                "y": 8
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": [
+                    16,
+                    17
+                ],
+                "y": 7
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 21,
+                "y": 5
+            },
+            {
+                "chance": 90,
+                "item": "floor_trash",
+                "x": [
+                    16,
+                    19
+                ],
+                "y": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": [
+                    18,
+                    20
+                ],
+                "y": 4
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 19,
+                "y": 2
+            },
+            {
+                "chance": 80,
+                "item": "floor_trash",
+                "x": 17,
+                "y": 1
+            },
+            {
+                "chance": 90,
+                "item": "supplies_farming",
+                "x": 4,
+                "y": 17
+            },
+            {
+                "chance": 70,
+                "item": "ammo_pistol_common",
+                "x": 2,
+                "y": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "chance": 80,
+                "item": "drugs_analgesic",
+                "x": [
+                    2,
+                    3
+                ],
+                "y": 5
+            },
+            {
+                "chance": 80,
+                "item": "bar_alcohol",
+                "x": 2,
+                "y": 12
+            },
+            {
+                "chance": 60,
+                "item": "dress_shop",
+                "x": 4,
+                "y": 19
+            },
+            {
+                "chance": 60,
+                "item": "dress_shop",
+                "x": 18,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "bar_food",
+                "x": [
+                    3,
+                    5
+                ],
+                "y": 12
+            },
+            {
+                "chance": 70,
+                "item": "elec_parts",
+                "x": 17,
+                "y": 21
+            },
+            {
+                "chance": 60,
+                "item": "clothing_soldier_shirt",
+                "x": 19,
+                "y": 20
+            },
+            {
+                "chance": 90,
+                "item": "drugs_misc",
+                "x": 2,
+                "y": 9
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": 16,
+                "y": 19
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 19,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 2,
+                "y": 6
+            },
+            {
+                "chance": 80,
+                "item": "book_gunref",
+                "x": 4,
+                "y": 2
+            }
+        ],
+        "place_monsters": [
+{ "monster": "GROUP_ZOMBIE_BRUTE", "x": [ 12,13 ], "y": [ 11,12 ], "chance": 50 },
+{ "monster": "GROUP_SCHOOL", "x": [ 7,7 ], "y": [ 7,21], "chance": 50 }
+
+        ],
+        "place_vehicles": [
+            {
+                "chance": 50,
+                "fuel": 90,
+                "rotation": 0,
+                "status": -1,
+                "vehicle": "scooter",
+                "x": 8,
+                "y": 17
+            }
+        ],
+        "fill_ter": "t_dirt",
+        "rows": [
+            "...........___..........",
+            "..||||||...___..........",
+            "..|cc&f|...___.^........",
+            "..|ffff0...___.......^..",
+            ".||fff{|...___.|||......",
+            ".|bfff{|||.___.|fa..|...",
+            ".|bffff#f|.___.|.r..|...",
+            ".|mffffffD.___....fr|...",
+            ".0mffeTffD.____.|||.....",
+            ".0mffffff|.___..........",
+            ".|fffffff|.____.....O...",
+            ".|####fff|.____||0|||...",
+            ".|ttttfwf|.___.dffmm|...",
+            ".|||||||||.___.|Ffff|...",
+            "...........___.||||fW...",
+            "...|0|||B..___...g|f|...",
+            "..h|wff|B..___....|||^..",
+            "..||fffd...___..........",
+            "..|ffffd...___.|0||.7...",
+            "..0ffff|...___.|#{||||..",
+            ".||ff|||...___.dffdf&|..",
+            ".|fft|.....___.|ff||||..",
+            ".|||||.....___.||||.....",
+            "...........___.........."
+        ],
+        "terrain": {
+            "#": "t_floor",
+            "&": "t_floor",
+            ".": [ "t_grass", "t_dirt", "t_dirt", "t_dirt" ],
+            "0": "t_window_empty",
+            "7": "t_tree_dead",
+            "B": "t_grass",
+            "D": "t_door_b",
+            "F": "t_floor",
+            "O": "t_grass",
+            "T": "t_floor",
+            "W": "t_window_frame",
+            "^": "t_grass",
+            "_": "t_dirt",
+            "a": "t_grass",
+            "b": "t_floor",
+            "c": "t_floor",
+            "d": "t_door_o",
+            "e": "t_floor",
+            "f": "t_floor",
+            "g": "t_grass",
+            "h": "t_grass",
+            "m": "t_floor",
+            "r": "t_grass",
+            "t": "t_floor",
+            "w": "t_floor",
+            "{": "t_floor",
+            "|": "t_scrap_wooden_wall"
+        }
+    },
+    "om_terrain": "shanty_2",
+    "type": "mapgen",
+    "weight": 100
+},{
+    "method": "json",
+    "object": {
+        "furniture": {
+            "#": "f_makeshift_bed",
+            "&": "f_trashcan",
+            "B": "f_bathtub",
+            "C": "f_chair",
+            "D": "f_desk",
+            "F": "f_fireplace",
+            "H": "f_armchair",
+            "P": "f_sign",
+            "b": "f_bed",
+            "c": "f_chair",
+            "p": "f_pool_table",
+            "t": "f_table",
+            "w": "f_woodstove"
+        },
+        "place_items": [
+            {
+                "chance": 80,
+                "item": "softdrugs",
+                "x": [
+                    5,
+                    6
+                ],
+                "y": 3
+            },
+            {
+                "chance": 90,
+                "item": "hardware",
+                "x": 19,
+                "y": 20
+            },
+            {
+                "chance": 70,
+                "item": "tools_common",
+                "x": 10,
+                "y": 20
+            },
+            {
+                "chance": 60,
+                "item": "tools_common",
+                "x": 20,
+                "y": 5
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 20,
+                "y": 21
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": [
+                    19,
+                    20
+                ],
+                "y": 13
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": 4,
+                "y": 12
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": 4,
+                "y": 3
+            },
+            {
+                "chance": 80,
+                "item": "cleaning",
+                "x": 10,
+                "y": 12
+            },
+            {
+                "chance": 50,
+                "item": "gear_survival",
+                "x": 19,
+                "y": 4
+            },
+            {
+                "chance": 60,
+                "item": "drugs_rare",
+                "x": 19,
+                "y": 2
+            },
+            {
+                "chance": 80,
+                "item": "pizza_soda",
+                "x": 19,
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 14,
+                "y": 21
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 5,
+                "y": 21
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 17,
+                "y": 20
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 12,
+                "y": 16
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 8,
+                "y": 13
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 3,
+                "y": 9
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 11,
+                "y": 1
+            },
+            {
+                "chance": 70,
+                "item": "guns_pistol_common",
+                "x": 20,
+                "y": 6
+            },
+            {
+                "chance": 80,
+                "item": "clothing_work_set",
+                "x": 10,
+                "y": 19
+            },
+            {
+                "chance": 50,
+                "item": "dogfight",
+                "x": 6,
+                "y": 20
+            },
+            {
+                "chance": 50,
+                "item": "dogfight",
+                "x": [
+                    4,
+                    5
+                ],
+                "y": 19
+            },
+            {
+                "chance": 60,
+                "item": "guns_pistol_rare",
+                "x": 21,
+                "y": 6
+            },
+            {
+                "chance": 80,
+                "item": "pizza_beer",
+                "x": 19,
+                "y": 10
+            },
+            {
+                "chance": 80,
+                "item": "building_rubble",
+                "x": [
+                    19,
+                    20
+                ],
+                "y": 17
+            },
+            {
+                "chance": 90,
+                "item": "ammo_pistol_common",
+                "x": 21,
+                "y": 5
+            },
+            {
+                "chance": 90,
+                "item": "guns_rifle_common",
+                "x": 19,
+                "y": 3
+            },
+            {
+                "chance": 80,
+                "item": "drugs_analgesic",
+                "x": 3,
+                "y": 4
+            },
+            {
+                "chance": 60,
+                "item": "everyday_gear",
+                "x": 19,
+                "y": 22
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 4,
+                "y": [
+                    13,
+                    14
+                ]
+            },
+            {
+                "chance": 70,
+                "item": "everyday_gear",
+                "x": 9,
+                "y": 6
+            },
+            {
+                "chance": 80,
+                "item": "everyday_gear",
+                "x": 7,
+                "y": 6
+            },
+            {
+                "chance": 60,
+                "item": "everyday_gear",
+                "x": 7,
+                "y": 4
+            },
+            {
+                "chance": 60,
+                "item": "ammo_pistol_rare",
+                "x": 19,
+                "y": 6
+            },
+            {
+                "chance": 90,
+                "item": "cannedfood",
+                "x": 3,
+                "y": 12
+            },
+            {
+                "chance": 90,
+                "item": "cannedfood",
+                "x": 19,
+                "y": 11
+            },
+            {
+                "chance": 80,
+                "item": "ammo_rifle_milspec",
+                "x": 21,
+                "y": 7
+            }
+        ],
+        "place_monsters": [
+            {
+                "chance": 80,
+                "monster": "GROUP_ZOMBIE_FAT",
+                "x": 15,
+                "y": 19
+            }
+        ],
+        "place_vehicles": [
+            {
+                "chance": 70,
+                "fuel": -1,
+                "rotation": 0,
+                "status": -1,
+                "vehicle": "bicycle",
+                "x": 3,
+                "y": 20
+            }
+        ],
+        "fill_ter": "t_dirt",
+        "rows": [
+            "..............___.......",
+            "..............___.|||...",
+            "..||0||||.....___.|#|...",
+            "..|f###F|.....___.|f0...",
+            "..|Cffff||d|..___.|f|||.",
+            "..||||d||ff|..___.|ffC|.",
+            "....|fffdff|..___.|Dff|.",
+            "....||||||||..___.|||f|.",
+            "..............___...|||.",
+            ".........|||_.___..t....",
+            ".........|#|..___..pc...",
+            "..|0||...|f0..___..P....",
+            "..|fb|c..|f||.___|||0||.",
+            "..|ff|c..|ffa.___|f###|.",
+            "..|ff||..||||.___dffff|.",
+            "..0fffd.......___|Fff&|.",
+            "..|Fff|.......___||||||.",
+            "..|||||.......___.......",
+            ".........||||.___.|0|...",
+            "........||#f|.___.|#|BH.",
+            "........|wffe.___.|f|||.",
+            "........|||||._...rffF|.",
+            ".............._._.|fff0.",
+            ".............._...|||||."
+        ],
+        "terrain": {
+            "#": "t_floor",
+            "&": "t_floor",
+            ".": [ "t_grass", "t_dirt", "t_dirt", "t_dirt" ],
+            "0": "t_window_empty",
+            "B": "t_grass",
+            "C": "t_floor",
+            "D": "t_floor",
+            "F": "t_floor",
+            "H": "t_grass",
+            "P": "t_grass",
+            "_": "t_palisade_gate_o",
+            "a": "t_door_makeshift_o",
+            "b": "t_floor",
+            "c": "t_grass",
+            "d": "t_door_o",
+            "e": "t_door_frame",
+            "f": "t_floor",
+            "p": "t_grass",
+            "r": "t_rdoor_o",
+            "t": "t_grass",
+            "w": "t_floor",
+            "|": "t_scrap_wooden_wall"
+        }
+    },
+    "om_terrain": "shanty_3",
+    "type": "mapgen",
+    "weight": 100
+},{
+    "method": "json",
+    "object": {
+        "furniture": {
+            "#": "f_wreckage",
+            "@": "f_mannequin",
+            "B": "f_bookcase",
+            "F": "f_fireplace",
+            "H": "f_sofa",
+            "P": "f_sign",
+            "S": "f_shower",
+            "X": "f_safe_c",
+            "^": "f_still",
+            "a": "f_bathtub",
+            "b": "f_bench",
+            "d": "f_dumpster",
+            "m": "f_makeshift_bed",
+            "t": "f_table",
+            "w": "f_wood_keg",
+            "{": "f_locker"
+        },
+        "place_items": [
+            {
+                "chance": 90,
+                "item": "liqstore_brew",
+                "x": 4,
+                "y": 17
+            },
+            {
+                "chance": 80,
+                "item": "liqstore_brew",
+                "x": [
+                    6,
+                    7
+                ],
+                "y": 15
+            },
+            {
+                "chance": 70,
+                "item": "bed",
+                "x": 5,
+                "y": 15
+            },
+            {
+                "chance": 80,
+                "item": "bed",
+                "x": 18,
+                "y": 7
+            },
+            {
+                "chance": 50,
+                "item": "bed",
+                "x": 6,
+                "y": 3
+            },
+            {
+                "chance": 90,
+                "item": "vitamin_shop",
+                "x": 19,
+                "y": 14
+            },
+            {
+                "chance": 90,
+                "item": "fast_table",
+                "x": 17,
+                "y": 7
+            },
+            {
+                "chance": 50,
+                "item": "dogfight",
+                "x": 8,
+                "y": 8
+            },
+            {
+                "chance": 50,
+                "item": "dogfight",
+                "x": 2,
+                "y": [
+                    6,
+                    7
+                ]
+            },
+            {
+                "chance": 90,
+                "item": "methlab",
+                "x": [
+                    17,
+                    18
+                ],
+                "y": 20
+            },
+            {
+                "chance": 90,
+                "item": "methlab",
+                "x": 19,
+                "y": 19
+            },
+            {
+                "chance": 90,
+                "item": "mags_other_common",
+                "x": 19,
+                "y": 18
+            },
+            {
+                "chance": 90,
+                "item": "knife_shop",
+                "x": 19,
+                "y": 20
+            },
+            {
+                "chance": 80,
+                "item": "ammo_pistol_common",
+                "x": 4,
+                "y": 18
+            },
+            {
+                "chance": 50,
+                "item": "stash_food",
+                "x": 8,
+                "y": 14
+            },
+            {
+                "chance": 70,
+                "item": "hardware_trash",
+                "x": 21,
+                "y": 18
+            },
+            {
+                "chance": 60,
+                "item": "hardware_trash",
+                "x": 2,
+                "y": 16
+            },
+            {
+                "chance": 70,
+                "item": "hardware_trash",
+                "x": 21,
+                "y": 12
+            },
+            {
+                "chance": 60,
+                "item": "hardware_trash",
+                "x": 4,
+                "y": 7
+            },
+            {
+                "chance": 80,
+                "item": "tools_construction",
+                "x": 18,
+                "y": 13
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 12,
+                "y": 19
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 16,
+                "y": 15
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 14,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 11,
+                "y": 12
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 12,
+                "y": 4
+            },
+            {
+                "chance": 80,
+                "item": "trash",
+                "x": 17,
+                "y": 1
+            },
+            {
+                "chance": 80,
+                "item": "car_kit",
+                "x": 17,
+                "y": 9
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": 17,
+                "y": 19
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 4,
+                "y": 16
+            },
+            {
+                "chance": 70,
+                "item": "clothing_outdoor_set",
+                "x": 19,
+                "y": 7
+            },
+            {
+                "chance": 80,
+                "item": "clothing_outdoor_set",
+                "x": 5,
+                "y": 3
+            }
+        ],
+        "place_monsters": [
+{ "monster": "GROUP_ZOMBIE", "x": [ 19, 19 ], "y": [ 19,12 ], "chance": 50 }
+
+        ],
+        "fill_ter": "t_dirt",
+        "rows": [
+            "...........___..........",
+            "...........___..........",
+            "....||||||.___...#......",
+            "....|fmm{|.___.#.###....",
+            "....0ffff&.___...####...",
+            "....|fffF|.___...###.#..",
+            "....||||||.___.||||||...",
+            "...........___.|fmmf|...",
+            "...........___.&fffB|...",
+            "...||||....___.|ffff0H..",
+            "...|@S|....___.|||ff|H..",
+            "...|wf&....___...|ff|H..",
+            "...||||....___...|Ff|d..",
+            ".......||-.___...|ff||..",
+            "...|||||{||___..7|fff|..",
+            "...|Fmffff|___...|||||..",
+            "...0ffffff|___..........",
+            "...|ffffff+___...P|0|...",
+            "...|t^^||||.....|||X|...",
+            "...|||||.bb____.Dfaf|s..",
+            "....7......_.._.|tfm|s..",
+            "..........._._..|||||...",
+            "........................",
+            "........................"
+        ],
+        "terrain": {
+            "#": "t_grass",
+            "&": "t_door_b",
+            "+": "t_door_c",
+            "-": "t_wall_log_chipped",
+            ".": [ "t_grass", "t_dirt", "t_dirt", "t_dirt" ],
+            "0": "t_window_empty",
+            "7": "t_tree_dead",
+            "@": "t_floor",
+            "B": "t_floor",
+            "D": "t_door_o",
+            "F": "t_floor",
+            "H": "t_grass",
+            "P": "t_grass",
+            "S": "t_floor",
+            "X": "t_floor",
+            "^": "t_floor",
+            "_": "t_dirt",
+            "a": "t_floor",
+            "b": "t_grass",
+            "d": "t_grass",
+            "f": "t_floor",
+            "m": "t_floor",
+            "s": "t_shrub",
+            "t": "t_floor",
+            "w": "t_floor",
+            "{": "t_floor",
+            "|": "t_scrap_wooden_wall"
+        }
+    },
+    "om_terrain": "shanty_4",
+    "type": "mapgen",
+    "weight": 100
+}]

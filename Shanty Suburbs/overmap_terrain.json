@@ -1,35 +1,44 @@
 [
   {
-    "id": "dairy_farm_NW",
+    "id": "shanty_0",
     "type": "overmap_terrain",
-    "name": "dairy farm",
+    "name": "small shanty",
     "sym": 119,
     "color": "brown",
     "see_cost": 1,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
   },
   {
-    "id": "dairy_farm_NE",
+    "id": "shanty_1",
     "type": "overmap_terrain",
-    "name": "dairy farm",
+    "name": "small shanty",
     "sym": 119,
     "color": "brown",
     "see_cost": 1,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
   },
   {
-    "id": "dairy_farm_SE",
+    "id": "shanty_2",
     "type": "overmap_terrain",
-    "name": "dairy farm",
+    "name": "small shanty",
     "sym": 119,
     "color": "brown",
     "see_cost": 5,
     "flags": [ "SIDEWALK", "NO_ROTATE" ]
   },
   {
-    "id": "dairy_farm_SW",
+    "id": "shanty_3",
     "type": "overmap_terrain",
-    "name": "dairy farm",
+    "name": "small shanty",
+    "sym": 119,
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "SIDEWALK", "NO_ROTATE" ]
+  },
+    {
+    "id": "shanty_4",
+    "type": "overmap_terrain",
+    "name": "small shanty",
     "sym": 119,
     "color": "brown",
     "see_cost": 5,

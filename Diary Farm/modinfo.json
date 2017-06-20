@@ -1,8 +1,8 @@
 {
   "type": "MOD_INFO",
   "mod-type": "",
-  "ident": "diary_farm",
-  "name": "Diary Farm",
+  "ident": "dairy_farm",
+  "name": "Dairy Farm",
   "author": "Alec White",
   "description": "Adds a diary farm with cows.",
   "path": ""
